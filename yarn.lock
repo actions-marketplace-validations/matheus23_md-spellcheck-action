@@ -867,15 +867,15 @@
     "@yozora/ast" "^2.0.2-alpha.0"
     "@yozora/character" "^2.0.2-alpha.0"
 
-"@yozora/ast@^2.0.2-alpha.0":
-  version "2.0.2-alpha.0"
-  resolved "https://registry.yarnpkg.com/@yozora/ast/-/ast-2.0.2-alpha.0.tgz#70cf23be5018a2d46667da4884c17b3396fb3093"
-  integrity sha512-5q4AL7yYMEBoYbbqCgVKc0fTEeeEWWjrv8+pwSbiwhAMxNV4JfrFjA1EdEShgxetWEOhGPUOeskfHz3zF/kpsA==
+"@yozora/ast@^2.0.2-alpha.0", "@yozora/ast@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@yozora/ast/-/ast-2.1.5.tgz#70a1ffd717b85d49737854491d1deaba750ca24c"
+  integrity sha512-YAoFoQyd2NSfaIf1GPP45vECZADxkc29Qtkk+piUfacBffnCcKka0x+yVSM5TKcqRYpXfNzN8H8umXN9uLeTew==
 
-"@yozora/character@^2.0.2-alpha.0":
-  version "2.0.2-alpha.0"
-  resolved "https://registry.yarnpkg.com/@yozora/character/-/character-2.0.2-alpha.0.tgz#d6e8c5327380ad3861462c42f0f55c1346630e2a"
-  integrity sha512-9RqHpsUZxYiUDlEuJZfY8BMTeH7k5/trIAcbqQwbf55Au3fxUPipr8fj7LEoOxf/9Tj2ZYWdhOlge2RLzW92DQ==
+"@yozora/character@^2.0.2-alpha.0", "@yozora/character@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@yozora/character/-/character-2.1.5.tgz#838d28e7647a947975c91ad8691b4171c304b7b2"
+  integrity sha512-ggrHKH79X1aY18cmEcosUeCWiwjKTtg5x65cWqFJjbRSelBMWuA8MgdMMoensiZFl9CBdoMM5KgA6IEKjcJc0g==
 
 "@yozora/core-parser@^2.0.2-alpha.0":
   version "2.0.2-alpha.0"
@@ -888,13 +888,13 @@
     "@yozora/core-tokenizer" "^2.0.2-alpha.0"
     "@yozora/invariant" "^2.0.2-alpha.0"
 
-"@yozora/core-tokenizer@^2.0.2-alpha.0":
-  version "2.0.2-alpha.0"
-  resolved "https://registry.yarnpkg.com/@yozora/core-tokenizer/-/core-tokenizer-2.0.2-alpha.0.tgz#a4969b0d78ada56a4808d5938bc6762911ffacc0"
-  integrity sha512-fncDLBXjN7UIVz/dQQdczmmo3EzeORmlcndr4SmFdAPROsPPpErT4IbehdzVDgHBBTUWEkqNVzotBoQFfvKZtA==
+"@yozora/core-tokenizer@^2.0.2-alpha.0", "@yozora/core-tokenizer@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@yozora/core-tokenizer/-/core-tokenizer-2.1.5.tgz#4ac118b49848f4356b1c5a85d3cb0564b7d8ff1f"
+  integrity sha512-M/gNFkxpGkMAHZw66cI4pQqrjVbnEtOZVSfCuY3r6xlVOZeIemy9bcnBArWKjqrf/2T6K2zIhw8DnRC4feyM6Q==
   dependencies:
-    "@yozora/ast" "^2.0.2-alpha.0"
-    "@yozora/character" "^2.0.2-alpha.0"
+    "@yozora/ast" "^2.1.5"
+    "@yozora/character" "^2.1.5"
 
 "@yozora/invariant@^2.0.2-alpha.0":
   version "2.0.2-alpha.0"
@@ -1083,14 +1083,14 @@
     "@yozora/character" "^2.0.2-alpha.0"
     "@yozora/core-tokenizer" "^2.0.2-alpha.0"
 
-"@yozora/tokenizer-inline-math@^2.0.2-alpha.0":
-  version "2.0.2-alpha.0"
-  resolved "https://registry.yarnpkg.com/@yozora/tokenizer-inline-math/-/tokenizer-inline-math-2.0.2-alpha.0.tgz#abda32690408aef7776701c421af78c453463bf3"
-  integrity sha512-s13AWmjMyE5dwb2nLoviHhsWz1iL47S+EuTyaurDxMZE27YVazm+QLpkuk56xAmvbFafDH5f+RhbYBWS0J/yOg==
+"@yozora/tokenizer-inline-math@^2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@yozora/tokenizer-inline-math/-/tokenizer-inline-math-2.1.5.tgz#49002b34c79db33773859301b865c7b6e2d140a5"
+  integrity sha512-aC4Bkl84Iv34BjZ384aTbh2EjpHRGMlMUw75hHznbCZxzFkAZQJ5pul9UA4hK6Whzdjor7hAfoE/Im02vQYU6g==
   dependencies:
-    "@yozora/ast" "^2.0.2-alpha.0"
-    "@yozora/character" "^2.0.2-alpha.0"
-    "@yozora/core-tokenizer" "^2.0.2-alpha.0"
+    "@yozora/ast" "^2.1.5"
+    "@yozora/character" "^2.1.5"
+    "@yozora/core-tokenizer" "^2.1.5"
 
 "@yozora/tokenizer-link-reference@^2.0.2-alpha.0":
   version "2.0.2-alpha.0"
